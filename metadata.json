@@ -1,0 +1,6 @@
+{
+  "name": "Jewellery Profit Master",
+  "description": "Professional jewellery business management app for Indian jewellers with live gold/silver/platinum rates, profit-loss tracking, rate calculator, inventory, and GST billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
